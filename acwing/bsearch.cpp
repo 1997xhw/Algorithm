@@ -29,5 +29,5 @@ int main() {
 
 
 }
-mid - (H[i] - mid) 
-mid + (mid - H[i])
+//mid - (H[i] - mid)
+//mid + (mid - H[i])

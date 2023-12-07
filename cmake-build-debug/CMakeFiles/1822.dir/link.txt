@@ -1,0 +1,1 @@
+/opt/homebrew/bin/g++-13 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/1822.dir/leetcode/1822.cpp.o -o 1822 
