@@ -909,6 +909,32 @@ gcd/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1991.dir/build.make CMakeFiles/1991.dir/build
 .PHONY : 1991/fast
 
+#=============================================================================
+# Target rules for targets named 1634
+
+# Build rule for target.
+1634: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 1634
+.PHONY : 1634
+
+# fast build rule for target.
+1634/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1634.dir/build.make CMakeFiles/1634.dir/build
+.PHONY : 1634/fast
+
+#=============================================================================
+# Target rules for targets named 1992
+
+# Build rule for target.
+1992: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 1992
+.PHONY : 1992
+
+# fast build rule for target.
+1992/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1992.dir/build.make CMakeFiles/1992.dir/build
+.PHONY : 1992/fast
+
 acwing/5366.o: acwing/5366.cpp.o
 .PHONY : acwing/5366.o
 
@@ -1365,6 +1391,30 @@ leetcode/1615.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1615.dir/build.make CMakeFiles/1615.dir/leetcode/1615.cpp.s
 .PHONY : leetcode/1615.cpp.s
 
+leetcode/1634.o: leetcode/1634.cpp.o
+.PHONY : leetcode/1634.o
+
+# target to build an object file
+leetcode/1634.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1634.dir/build.make CMakeFiles/1634.dir/leetcode/1634.cpp.o
+.PHONY : leetcode/1634.cpp.o
+
+leetcode/1634.i: leetcode/1634.cpp.i
+.PHONY : leetcode/1634.i
+
+# target to preprocess a source file
+leetcode/1634.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1634.dir/build.make CMakeFiles/1634.dir/leetcode/1634.cpp.i
+.PHONY : leetcode/1634.cpp.i
+
+leetcode/1634.s: leetcode/1634.cpp.s
+.PHONY : leetcode/1634.s
+
+# target to generate assembly for a file
+leetcode/1634.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1634.dir/build.make CMakeFiles/1634.dir/leetcode/1634.cpp.s
+.PHONY : leetcode/1634.cpp.s
+
 leetcode/1640.o: leetcode/1640.cpp.o
 .PHONY : leetcode/1640.o
 
@@ -1724,6 +1774,30 @@ leetcode/1991.s: leetcode/1991.cpp.s
 leetcode/1991.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1991.dir/build.make CMakeFiles/1991.dir/leetcode/1991.cpp.s
 .PHONY : leetcode/1991.cpp.s
+
+leetcode/1992.o: leetcode/1992.cpp.o
+.PHONY : leetcode/1992.o
+
+# target to build an object file
+leetcode/1992.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1992.dir/build.make CMakeFiles/1992.dir/leetcode/1992.cpp.o
+.PHONY : leetcode/1992.cpp.o
+
+leetcode/1992.i: leetcode/1992.cpp.i
+.PHONY : leetcode/1992.i
+
+# target to preprocess a source file
+leetcode/1992.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1992.dir/build.make CMakeFiles/1992.dir/leetcode/1992.cpp.i
+.PHONY : leetcode/1992.cpp.i
+
+leetcode/1992.s: leetcode/1992.cpp.s
+.PHONY : leetcode/1992.s
+
+# target to generate assembly for a file
+leetcode/1992.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1992.dir/build.make CMakeFiles/1992.dir/leetcode/1992.cpp.s
+.PHONY : leetcode/1992.cpp.s
 
 leetcode/2178.o: leetcode/2178.cpp.o
 .PHONY : leetcode/2178.o
@@ -2395,6 +2469,7 @@ help:
 	@echo "... 1525"
 	@echo "... 1557"
 	@echo "... 1615"
+	@echo "... 1634"
 	@echo "... 1640"
 	@echo "... 1657"
 	@echo "... 1670"
@@ -2410,6 +2485,7 @@ help:
 	@echo "... 1921"
 	@echo "... 1930"
 	@echo "... 1991"
+	@echo "... 1992"
 	@echo "... 2178"
 	@echo "... 2201"
 	@echo "... 2216"
@@ -2499,6 +2575,9 @@ help:
 	@echo "... leetcode/1615.o"
 	@echo "... leetcode/1615.i"
 	@echo "... leetcode/1615.s"
+	@echo "... leetcode/1634.o"
+	@echo "... leetcode/1634.i"
+	@echo "... leetcode/1634.s"
 	@echo "... leetcode/1640.o"
 	@echo "... leetcode/1640.i"
 	@echo "... leetcode/1640.s"
@@ -2544,6 +2623,9 @@ help:
 	@echo "... leetcode/1991.o"
 	@echo "... leetcode/1991.i"
 	@echo "... leetcode/1991.s"
+	@echo "... leetcode/1992.o"
+	@echo "... leetcode/1992.i"
+	@echo "... leetcode/1992.s"
 	@echo "... leetcode/2178.o"
 	@echo "... leetcode/2178.i"
 	@echo "... leetcode/2178.s"
