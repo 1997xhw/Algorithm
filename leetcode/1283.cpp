@@ -20,7 +20,7 @@ public:
             cout << "index: " << index << endl;
             int ans = 0;
             ans += index;
-            while (index < nums.size()) ans += (nums[index]%mid==0?nums[index++·]/mid: (nums[index++] / mid) +1);
+            while (index < nums.size()) ans += (nums[index]%mid==0?nums[index++]/mid: (nums[index++] / mid) +1);
 //            ans += (prefix[nums.size()] - prefix[index]) / mid;
             cout << "ans: " << ans << endl;
             return ans <= threshold;
