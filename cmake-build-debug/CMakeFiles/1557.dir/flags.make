@@ -6,7 +6,7 @@ CXX_DEFINES =
 
 CXX_INCLUDES = 
 
-CXX_FLAGSarm64 = -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fdiagnostics-color=always
+CXX_FLAGSarm64 = -g -std=gnu++11 -arch arm64 -fdiagnostics-color=always
 
-CXX_FLAGS = -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -fdiagnostics-color=always
+CXX_FLAGS = -g -std=gnu++11 -arch arm64 -fdiagnostics-color=always
 

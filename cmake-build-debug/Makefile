@@ -935,6 +935,630 @@ gcd/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1992.dir/build.make CMakeFiles/1992.dir/build
 .PHONY : 1992/fast
 
+#=============================================================================
+# Target rules for targets named 2349
+
+# Build rule for target.
+2349: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 2349
+.PHONY : 2349
+
+# fast build rule for target.
+2349/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2349.dir/build.make CMakeFiles/2349.dir/build
+.PHONY : 2349/fast
+
+#=============================================================================
+# Target rules for targets named 1382
+
+# Build rule for target.
+1382: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 1382
+.PHONY : 1382
+
+# fast build rule for target.
+1382/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1382.dir/build.make CMakeFiles/1382.dir/build
+.PHONY : 1382/fast
+
+#=============================================================================
+# Target rules for targets named 1007
+
+# Build rule for target.
+1007: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 1007
+.PHONY : 1007
+
+# fast build rule for target.
+1007/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1007.dir/build.make CMakeFiles/1007.dir/build
+.PHONY : 1007/fast
+
+#=============================================================================
+# Target rules for targets named 2575
+
+# Build rule for target.
+2575: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 2575
+.PHONY : 2575
+
+# fast build rule for target.
+2575/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2575.dir/build.make CMakeFiles/2575.dir/build
+.PHONY : 2575/fast
+
+#=============================================================================
+# Target rules for targets named 1749
+
+# Build rule for target.
+1749: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 1749
+.PHONY : 1749
+
+# fast build rule for target.
+1749/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1749.dir/build.make CMakeFiles/1749.dir/build
+.PHONY : 1749/fast
+
+#=============================================================================
+# Target rules for targets named 986
+
+# Build rule for target.
+986: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 986
+.PHONY : 986
+
+# fast build rule for target.
+986/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/986.dir/build.make CMakeFiles/986.dir/build
+.PHONY : 986/fast
+
+#=============================================================================
+# Target rules for targets named 2008
+
+# Build rule for target.
+2008: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 2008
+.PHONY : 2008
+
+# fast build rule for target.
+2008/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2008.dir/build.make CMakeFiles/2008.dir/build
+.PHONY : 2008/fast
+
+#=============================================================================
+# Target rules for targets named 1283
+
+# Build rule for target.
+1283: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 1283
+.PHONY : 1283
+
+# fast build rule for target.
+1283/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1283.dir/build.make CMakeFiles/1283.dir/build
+.PHONY : 1283/fast
+
+#=============================================================================
+# Target rules for targets named 1233
+
+# Build rule for target.
+1233: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 1233
+.PHONY : 1233
+
+# fast build rule for target.
+1233/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1233.dir/build.make CMakeFiles/1233.dir/build
+.PHONY : 1233/fast
+
+#=============================================================================
+# Target rules for targets named 1104
+
+# Build rule for target.
+1104: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 1104
+.PHONY : 1104
+
+# fast build rule for target.
+1104/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1104.dir/build.make CMakeFiles/1104.dir/build
+.PHONY : 1104/fast
+
+#=============================================================================
+# Target rules for targets named 954
+
+# Build rule for target.
+954: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 954
+.PHONY : 954
+
+# fast build rule for target.
+954/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/954.dir/build.make CMakeFiles/954.dir/build
+.PHONY : 954/fast
+
+#=============================================================================
+# Target rules for targets named testttttt
+
+# Build rule for target.
+testttttt: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 testttttt
+.PHONY : testttttt
+
+# fast build rule for target.
+testttttt/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/testttttt.dir/build.make CMakeFiles/testttttt.dir/build
+.PHONY : testttttt/fast
+
+#=============================================================================
+# Target rules for targets named 2048
+
+# Build rule for target.
+2048: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 2048
+.PHONY : 2048
+
+# fast build rule for target.
+2048/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2048.dir/build.make CMakeFiles/2048.dir/build
+.PHONY : 2048/fast
+
+#=============================================================================
+# Target rules for targets named 1599
+
+# Build rule for target.
+1599: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 1599
+.PHONY : 1599
+
+# fast build rule for target.
+1599/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1599.dir/build.make CMakeFiles/1599.dir/build
+.PHONY : 1599/fast
+
+#=============================================================================
+# Target rules for targets named 2456
+
+# Build rule for target.
+2456: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 2456
+.PHONY : 2456
+
+# fast build rule for target.
+2456/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2456.dir/build.make CMakeFiles/2456.dir/build
+.PHONY : 2456/fast
+
+#=============================================================================
+# Target rules for targets named 1329
+
+# Build rule for target.
+1329: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 1329
+.PHONY : 1329
+
+# fast build rule for target.
+1329/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1329.dir/build.make CMakeFiles/1329.dir/build
+.PHONY : 1329/fast
+
+#=============================================================================
+# Target rules for targets named 100143
+
+# Build rule for target.
+100143: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 100143
+.PHONY : 100143
+
+# fast build rule for target.
+100143/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/100143.dir/build.make CMakeFiles/100143.dir/build
+.PHONY : 100143/fast
+
+#=============================================================================
+# Target rules for targets named 100155
+
+# Build rule for target.
+100155: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 100155
+.PHONY : 100155
+
+# fast build rule for target.
+100155/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/100155.dir/build.make CMakeFiles/100155.dir/build
+.PHONY : 100155/fast
+
+#=============================================================================
+# Target rules for targets named 100137
+
+# Build rule for target.
+100137: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 100137
+.PHONY : 100137
+
+# fast build rule for target.
+100137/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/100137.dir/build.make CMakeFiles/100137.dir/build
+.PHONY : 100137/fast
+
+#=============================================================================
+# Target rules for targets named 100136
+
+# Build rule for target.
+100136: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 100136
+.PHONY : 100136
+
+# fast build rule for target.
+100136/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/100136.dir/build.make CMakeFiles/100136.dir/build
+.PHONY : 100136/fast
+
+#=============================================================================
+# Target rules for targets named 2527
+
+# Build rule for target.
+2527: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 2527
+.PHONY : 2527
+
+# fast build rule for target.
+2527/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2527.dir/build.make CMakeFiles/2527.dir/build
+.PHONY : 2527/fast
+
+#=============================================================================
+# Target rules for targets named 2780
+
+# Build rule for target.
+2780: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 2780
+.PHONY : 2780
+
+# fast build rule for target.
+2780/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2780.dir/build.make CMakeFiles/2780.dir/build
+.PHONY : 2780/fast
+
+#=============================================================================
+# Target rules for targets named 2208
+
+# Build rule for target.
+2208: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 2208
+.PHONY : 2208
+
+# fast build rule for target.
+2208/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2208.dir/build.make CMakeFiles/2208.dir/build
+.PHONY : 2208/fast
+
+#=============================================================================
+# Target rules for targets named 2207
+
+# Build rule for target.
+2207: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 2207
+.PHONY : 2207
+
+# fast build rule for target.
+2207/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2207.dir/build.make CMakeFiles/2207.dir/build
+.PHONY : 2207/fast
+
+#=============================================================================
+# Target rules for targets named 1631
+
+# Build rule for target.
+1631: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 1631
+.PHONY : 1631
+
+# fast build rule for target.
+1631/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1631.dir/build.make CMakeFiles/1631.dir/build
+.PHONY : 1631/fast
+
+#=============================================================================
+# Target rules for targets named 2461
+
+# Build rule for target.
+2461: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 2461
+.PHONY : 2461
+
+# fast build rule for target.
+2461/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2461.dir/build.make CMakeFiles/2461.dir/build
+.PHONY : 2461/fast
+
+#=============================================================================
+# Target rules for targets named 2131
+
+# Build rule for target.
+2131: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 2131
+.PHONY : 2131
+
+# fast build rule for target.
+2131/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2131.dir/build.make CMakeFiles/2131.dir/build
+.PHONY : 2131/fast
+
+#=============================================================================
+# Target rules for targets named 2454
+
+# Build rule for target.
+2454: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 2454
+.PHONY : 2454
+
+# fast build rule for target.
+2454/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2454.dir/build.make CMakeFiles/2454.dir/build
+.PHONY : 2454/fast
+
+#=============================================================================
+# Target rules for targets named 2007
+
+# Build rule for target.
+2007: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 2007
+.PHONY : 2007
+
+# fast build rule for target.
+2007/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2007.dir/build.make CMakeFiles/2007.dir/build
+.PHONY : 2007/fast
+
+#=============================================================================
+# Target rules for targets named 1144
+
+# Build rule for target.
+1144: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 1144
+.PHONY : 1144
+
+# fast build rule for target.
+1144/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1144.dir/build.make CMakeFiles/1144.dir/build
+.PHONY : 1144/fast
+
+#=============================================================================
+# Target rules for targets named 2310
+
+# Build rule for target.
+2310: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 2310
+.PHONY : 2310
+
+# fast build rule for target.
+2310/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2310.dir/build.make CMakeFiles/2310.dir/build
+.PHONY : 2310/fast
+
+#=============================================================================
+# Target rules for targets named 2470
+
+# Build rule for target.
+2470: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 2470
+.PHONY : 2470
+
+# fast build rule for target.
+2470/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2470.dir/build.make CMakeFiles/2470.dir/build
+.PHONY : 2470/fast
+
+#=============================================================================
+# Target rules for targets named 1376
+
+# Build rule for target.
+1376: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 1376
+.PHONY : 1376
+
+# fast build rule for target.
+1376/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1376.dir/build.make CMakeFiles/1376.dir/build
+.PHONY : 1376/fast
+
+#=============================================================================
+# Target rules for targets named 856
+
+# Build rule for target.
+856: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 856
+.PHONY : 856
+
+# fast build rule for target.
+856/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/856.dir/build.make CMakeFiles/856.dir/build
+.PHONY : 856/fast
+
+#=============================================================================
+# Target rules for targets named 2697
+
+# Build rule for target.
+2697: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 2697
+.PHONY : 2697
+
+# fast build rule for target.
+2697/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2697.dir/build.make CMakeFiles/2697.dir/build
+.PHONY : 2697/fast
+
+#=============================================================================
+# Target rules for targets named 1452
+
+# Build rule for target.
+1452: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 1452
+.PHONY : 1452
+
+# fast build rule for target.
+1452/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1452.dir/build.make CMakeFiles/1452.dir/build
+.PHONY : 1452/fast
+
+#=============================================================================
+# Target rules for targets named 1008
+
+# Build rule for target.
+1008: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 1008
+.PHONY : 1008
+
+# fast build rule for target.
+1008/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1008.dir/build.make CMakeFiles/1008.dir/build
+.PHONY : 1008/fast
+
+#=============================================================================
+# Target rules for targets named 846
+
+# Build rule for target.
+846: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 846
+.PHONY : 846
+
+# fast build rule for target.
+846/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/846.dir/build.make CMakeFiles/846.dir/build
+.PHONY : 846/fast
+
+#=============================================================================
+# Target rules for targets named 2044
+
+# Build rule for target.
+2044: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 2044
+.PHONY : 2044
+
+# fast build rule for target.
+2044/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2044.dir/build.make CMakeFiles/2044.dir/build
+.PHONY : 2044/fast
+
+#=============================================================================
+# Target rules for targets named 2132
+
+# Build rule for target.
+2132: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 2132
+.PHONY : 2132
+
+# fast build rule for target.
+2132/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2132.dir/build.make CMakeFiles/2132.dir/build
+.PHONY : 2132/fast
+
+#=============================================================================
+# Target rules for targets named 2592
+
+# Build rule for target.
+2592: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 2592
+.PHONY : 2592
+
+# fast build rule for target.
+2592/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2592.dir/build.make CMakeFiles/2592.dir/build
+.PHONY : 2592/fast
+
+#=============================================================================
+# Target rules for targets named 1109
+
+# Build rule for target.
+1109: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 1109
+.PHONY : 1109
+
+# fast build rule for target.
+1109/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1109.dir/build.make CMakeFiles/1109.dir/build
+.PHONY : 1109/fast
+
+#=============================================================================
+# Target rules for targets named 1019
+
+# Build rule for target.
+1019: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 1019
+.PHONY : 1019
+
+# fast build rule for target.
+1019/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1019.dir/build.make CMakeFiles/1019.dir/build
+.PHONY : 1019/fast
+
+#=============================================================================
+# Target rules for targets named 931
+
+# Build rule for target.
+931: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 931
+.PHONY : 931
+
+# fast build rule for target.
+931/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/931.dir/build.make CMakeFiles/931.dir/build
+.PHONY : 931/fast
+
+#=============================================================================
+# Target rules for targets named 1268
+
+# Build rule for target.
+1268: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 1268
+.PHONY : 1268
+
+# fast build rule for target.
+1268/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1268.dir/build.make CMakeFiles/1268.dir/build
+.PHONY : 1268/fast
+
+#=============================================================================
+# Target rules for targets named 2415
+
+# Build rule for target.
+2415: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 2415
+.PHONY : 2415
+
+# fast build rule for target.
+2415/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2415.dir/build.make CMakeFiles/2415.dir/build
+.PHONY : 2415/fast
+
+#=============================================================================
+# Target rules for targets named 1578
+
+# Build rule for target.
+1578: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 1578
+.PHONY : 1578
+
+# fast build rule for target.
+1578/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1578.dir/build.make CMakeFiles/1578.dir/build
+.PHONY : 1578/fast
+
+#=============================================================================
+# Target rules for targets named 981
+
+# Build rule for target.
+981: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 981
+.PHONY : 981
+
+# fast build rule for target.
+981/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/981.dir/build.make CMakeFiles/981.dir/build
+.PHONY : 981/fast
+
 acwing/5366.o: acwing/5366.cpp.o
 .PHONY : acwing/5366.o
 
@@ -1055,6 +1679,78 @@ acwing/gcd.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/gcd.dir/build.make CMakeFiles/gcd.dir/acwing/gcd.cpp.s
 .PHONY : acwing/gcd.cpp.s
 
+leetcode/100136.o: leetcode/100136.cpp.o
+.PHONY : leetcode/100136.o
+
+# target to build an object file
+leetcode/100136.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/100136.dir/build.make CMakeFiles/100136.dir/leetcode/100136.cpp.o
+.PHONY : leetcode/100136.cpp.o
+
+leetcode/100136.i: leetcode/100136.cpp.i
+.PHONY : leetcode/100136.i
+
+# target to preprocess a source file
+leetcode/100136.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/100136.dir/build.make CMakeFiles/100136.dir/leetcode/100136.cpp.i
+.PHONY : leetcode/100136.cpp.i
+
+leetcode/100136.s: leetcode/100136.cpp.s
+.PHONY : leetcode/100136.s
+
+# target to generate assembly for a file
+leetcode/100136.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/100136.dir/build.make CMakeFiles/100136.dir/leetcode/100136.cpp.s
+.PHONY : leetcode/100136.cpp.s
+
+leetcode/100137.o: leetcode/100137.cpp.o
+.PHONY : leetcode/100137.o
+
+# target to build an object file
+leetcode/100137.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/100137.dir/build.make CMakeFiles/100137.dir/leetcode/100137.cpp.o
+.PHONY : leetcode/100137.cpp.o
+
+leetcode/100137.i: leetcode/100137.cpp.i
+.PHONY : leetcode/100137.i
+
+# target to preprocess a source file
+leetcode/100137.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/100137.dir/build.make CMakeFiles/100137.dir/leetcode/100137.cpp.i
+.PHONY : leetcode/100137.cpp.i
+
+leetcode/100137.s: leetcode/100137.cpp.s
+.PHONY : leetcode/100137.s
+
+# target to generate assembly for a file
+leetcode/100137.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/100137.dir/build.make CMakeFiles/100137.dir/leetcode/100137.cpp.s
+.PHONY : leetcode/100137.cpp.s
+
+leetcode/100143.o: leetcode/100143.cpp.o
+.PHONY : leetcode/100143.o
+
+# target to build an object file
+leetcode/100143.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/100143.dir/build.make CMakeFiles/100143.dir/leetcode/100143.cpp.o
+.PHONY : leetcode/100143.cpp.o
+
+leetcode/100143.i: leetcode/100143.cpp.i
+.PHONY : leetcode/100143.i
+
+# target to preprocess a source file
+leetcode/100143.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/100143.dir/build.make CMakeFiles/100143.dir/leetcode/100143.cpp.i
+.PHONY : leetcode/100143.cpp.i
+
+leetcode/100143.s: leetcode/100143.cpp.s
+.PHONY : leetcode/100143.s
+
+# target to generate assembly for a file
+leetcode/100143.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/100143.dir/build.make CMakeFiles/100143.dir/leetcode/100143.cpp.s
+.PHONY : leetcode/100143.cpp.s
+
 leetcode/100144.o: leetcode/100144.cpp.o
 .PHONY : leetcode/100144.o
 
@@ -1127,6 +1823,102 @@ leetcode/100153.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/100153.dir/build.make CMakeFiles/100153.dir/leetcode/100153.cpp.s
 .PHONY : leetcode/100153.cpp.s
 
+leetcode/100155.o: leetcode/100155.cpp.o
+.PHONY : leetcode/100155.o
+
+# target to build an object file
+leetcode/100155.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/100155.dir/build.make CMakeFiles/100155.dir/leetcode/100155.cpp.o
+.PHONY : leetcode/100155.cpp.o
+
+leetcode/100155.i: leetcode/100155.cpp.i
+.PHONY : leetcode/100155.i
+
+# target to preprocess a source file
+leetcode/100155.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/100155.dir/build.make CMakeFiles/100155.dir/leetcode/100155.cpp.i
+.PHONY : leetcode/100155.cpp.i
+
+leetcode/100155.s: leetcode/100155.cpp.s
+.PHONY : leetcode/100155.s
+
+# target to generate assembly for a file
+leetcode/100155.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/100155.dir/build.make CMakeFiles/100155.dir/leetcode/100155.cpp.s
+.PHONY : leetcode/100155.cpp.s
+
+leetcode/1007.o: leetcode/1007.cpp.o
+.PHONY : leetcode/1007.o
+
+# target to build an object file
+leetcode/1007.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1007.dir/build.make CMakeFiles/1007.dir/leetcode/1007.cpp.o
+.PHONY : leetcode/1007.cpp.o
+
+leetcode/1007.i: leetcode/1007.cpp.i
+.PHONY : leetcode/1007.i
+
+# target to preprocess a source file
+leetcode/1007.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1007.dir/build.make CMakeFiles/1007.dir/leetcode/1007.cpp.i
+.PHONY : leetcode/1007.cpp.i
+
+leetcode/1007.s: leetcode/1007.cpp.s
+.PHONY : leetcode/1007.s
+
+# target to generate assembly for a file
+leetcode/1007.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1007.dir/build.make CMakeFiles/1007.dir/leetcode/1007.cpp.s
+.PHONY : leetcode/1007.cpp.s
+
+leetcode/1008.o: leetcode/1008.cpp.o
+.PHONY : leetcode/1008.o
+
+# target to build an object file
+leetcode/1008.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1008.dir/build.make CMakeFiles/1008.dir/leetcode/1008.cpp.o
+.PHONY : leetcode/1008.cpp.o
+
+leetcode/1008.i: leetcode/1008.cpp.i
+.PHONY : leetcode/1008.i
+
+# target to preprocess a source file
+leetcode/1008.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1008.dir/build.make CMakeFiles/1008.dir/leetcode/1008.cpp.i
+.PHONY : leetcode/1008.cpp.i
+
+leetcode/1008.s: leetcode/1008.cpp.s
+.PHONY : leetcode/1008.s
+
+# target to generate assembly for a file
+leetcode/1008.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1008.dir/build.make CMakeFiles/1008.dir/leetcode/1008.cpp.s
+.PHONY : leetcode/1008.cpp.s
+
+leetcode/1019.o: leetcode/1019.cpp.o
+.PHONY : leetcode/1019.o
+
+# target to build an object file
+leetcode/1019.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1019.dir/build.make CMakeFiles/1019.dir/leetcode/1019.cpp.o
+.PHONY : leetcode/1019.cpp.o
+
+leetcode/1019.i: leetcode/1019.cpp.i
+.PHONY : leetcode/1019.i
+
+# target to preprocess a source file
+leetcode/1019.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1019.dir/build.make CMakeFiles/1019.dir/leetcode/1019.cpp.i
+.PHONY : leetcode/1019.cpp.i
+
+leetcode/1019.s: leetcode/1019.cpp.s
+.PHONY : leetcode/1019.s
+
+# target to generate assembly for a file
+leetcode/1019.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1019.dir/build.make CMakeFiles/1019.dir/leetcode/1019.cpp.s
+.PHONY : leetcode/1019.cpp.s
+
 leetcode/1023.o: leetcode/1023.cpp.o
 .PHONY : leetcode/1023.o
 
@@ -1175,6 +1967,54 @@ leetcode/1094.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1094.dir/build.make CMakeFiles/1094.dir/leetcode/1094.cpp.s
 .PHONY : leetcode/1094.cpp.s
 
+leetcode/1104.o: leetcode/1104.cpp.o
+.PHONY : leetcode/1104.o
+
+# target to build an object file
+leetcode/1104.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1104.dir/build.make CMakeFiles/1104.dir/leetcode/1104.cpp.o
+.PHONY : leetcode/1104.cpp.o
+
+leetcode/1104.i: leetcode/1104.cpp.i
+.PHONY : leetcode/1104.i
+
+# target to preprocess a source file
+leetcode/1104.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1104.dir/build.make CMakeFiles/1104.dir/leetcode/1104.cpp.i
+.PHONY : leetcode/1104.cpp.i
+
+leetcode/1104.s: leetcode/1104.cpp.s
+.PHONY : leetcode/1104.s
+
+# target to generate assembly for a file
+leetcode/1104.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1104.dir/build.make CMakeFiles/1104.dir/leetcode/1104.cpp.s
+.PHONY : leetcode/1104.cpp.s
+
+leetcode/1109.o: leetcode/1109.cpp.o
+.PHONY : leetcode/1109.o
+
+# target to build an object file
+leetcode/1109.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1109.dir/build.make CMakeFiles/1109.dir/leetcode/1109.cpp.o
+.PHONY : leetcode/1109.cpp.o
+
+leetcode/1109.i: leetcode/1109.cpp.i
+.PHONY : leetcode/1109.i
+
+# target to preprocess a source file
+leetcode/1109.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1109.dir/build.make CMakeFiles/1109.dir/leetcode/1109.cpp.i
+.PHONY : leetcode/1109.cpp.i
+
+leetcode/1109.s: leetcode/1109.cpp.s
+.PHONY : leetcode/1109.s
+
+# target to generate assembly for a file
+leetcode/1109.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1109.dir/build.make CMakeFiles/1109.dir/leetcode/1109.cpp.s
+.PHONY : leetcode/1109.cpp.s
+
 leetcode/1110.o: leetcode/1110.cpp.o
 .PHONY : leetcode/1110.o
 
@@ -1199,6 +2039,126 @@ leetcode/1110.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1110.dir/build.make CMakeFiles/1110.dir/leetcode/1110.cpp.s
 .PHONY : leetcode/1110.cpp.s
 
+leetcode/1144.o: leetcode/1144.cpp.o
+.PHONY : leetcode/1144.o
+
+# target to build an object file
+leetcode/1144.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1144.dir/build.make CMakeFiles/1144.dir/leetcode/1144.cpp.o
+.PHONY : leetcode/1144.cpp.o
+
+leetcode/1144.i: leetcode/1144.cpp.i
+.PHONY : leetcode/1144.i
+
+# target to preprocess a source file
+leetcode/1144.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1144.dir/build.make CMakeFiles/1144.dir/leetcode/1144.cpp.i
+.PHONY : leetcode/1144.cpp.i
+
+leetcode/1144.s: leetcode/1144.cpp.s
+.PHONY : leetcode/1144.s
+
+# target to generate assembly for a file
+leetcode/1144.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1144.dir/build.make CMakeFiles/1144.dir/leetcode/1144.cpp.s
+.PHONY : leetcode/1144.cpp.s
+
+leetcode/1233.o: leetcode/1233.cpp.o
+.PHONY : leetcode/1233.o
+
+# target to build an object file
+leetcode/1233.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1233.dir/build.make CMakeFiles/1233.dir/leetcode/1233.cpp.o
+.PHONY : leetcode/1233.cpp.o
+
+leetcode/1233.i: leetcode/1233.cpp.i
+.PHONY : leetcode/1233.i
+
+# target to preprocess a source file
+leetcode/1233.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1233.dir/build.make CMakeFiles/1233.dir/leetcode/1233.cpp.i
+.PHONY : leetcode/1233.cpp.i
+
+leetcode/1233.s: leetcode/1233.cpp.s
+.PHONY : leetcode/1233.s
+
+# target to generate assembly for a file
+leetcode/1233.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1233.dir/build.make CMakeFiles/1233.dir/leetcode/1233.cpp.s
+.PHONY : leetcode/1233.cpp.s
+
+leetcode/1268.o: leetcode/1268.cpp.o
+.PHONY : leetcode/1268.o
+
+# target to build an object file
+leetcode/1268.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1268.dir/build.make CMakeFiles/1268.dir/leetcode/1268.cpp.o
+.PHONY : leetcode/1268.cpp.o
+
+leetcode/1268.i: leetcode/1268.cpp.i
+.PHONY : leetcode/1268.i
+
+# target to preprocess a source file
+leetcode/1268.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1268.dir/build.make CMakeFiles/1268.dir/leetcode/1268.cpp.i
+.PHONY : leetcode/1268.cpp.i
+
+leetcode/1268.s: leetcode/1268.cpp.s
+.PHONY : leetcode/1268.s
+
+# target to generate assembly for a file
+leetcode/1268.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1268.dir/build.make CMakeFiles/1268.dir/leetcode/1268.cpp.s
+.PHONY : leetcode/1268.cpp.s
+
+leetcode/1283.o: leetcode/1283.cpp.o
+.PHONY : leetcode/1283.o
+
+# target to build an object file
+leetcode/1283.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1283.dir/build.make CMakeFiles/1283.dir/leetcode/1283.cpp.o
+.PHONY : leetcode/1283.cpp.o
+
+leetcode/1283.i: leetcode/1283.cpp.i
+.PHONY : leetcode/1283.i
+
+# target to preprocess a source file
+leetcode/1283.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1283.dir/build.make CMakeFiles/1283.dir/leetcode/1283.cpp.i
+.PHONY : leetcode/1283.cpp.i
+
+leetcode/1283.s: leetcode/1283.cpp.s
+.PHONY : leetcode/1283.s
+
+# target to generate assembly for a file
+leetcode/1283.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1283.dir/build.make CMakeFiles/1283.dir/leetcode/1283.cpp.s
+.PHONY : leetcode/1283.cpp.s
+
+leetcode/1329.o: leetcode/1329.cpp.o
+.PHONY : leetcode/1329.o
+
+# target to build an object file
+leetcode/1329.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1329.dir/build.make CMakeFiles/1329.dir/leetcode/1329.cpp.o
+.PHONY : leetcode/1329.cpp.o
+
+leetcode/1329.i: leetcode/1329.cpp.i
+.PHONY : leetcode/1329.i
+
+# target to preprocess a source file
+leetcode/1329.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1329.dir/build.make CMakeFiles/1329.dir/leetcode/1329.cpp.i
+.PHONY : leetcode/1329.cpp.i
+
+leetcode/1329.s: leetcode/1329.cpp.s
+.PHONY : leetcode/1329.s
+
+# target to generate assembly for a file
+leetcode/1329.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1329.dir/build.make CMakeFiles/1329.dir/leetcode/1329.cpp.s
+.PHONY : leetcode/1329.cpp.s
+
 leetcode/1362.o: leetcode/1362.cpp.o
 .PHONY : leetcode/1362.o
 
@@ -1222,6 +2182,54 @@ leetcode/1362.s: leetcode/1362.cpp.s
 leetcode/1362.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1362.dir/build.make CMakeFiles/1362.dir/leetcode/1362.cpp.s
 .PHONY : leetcode/1362.cpp.s
+
+leetcode/1376.o: leetcode/1376.cpp.o
+.PHONY : leetcode/1376.o
+
+# target to build an object file
+leetcode/1376.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1376.dir/build.make CMakeFiles/1376.dir/leetcode/1376.cpp.o
+.PHONY : leetcode/1376.cpp.o
+
+leetcode/1376.i: leetcode/1376.cpp.i
+.PHONY : leetcode/1376.i
+
+# target to preprocess a source file
+leetcode/1376.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1376.dir/build.make CMakeFiles/1376.dir/leetcode/1376.cpp.i
+.PHONY : leetcode/1376.cpp.i
+
+leetcode/1376.s: leetcode/1376.cpp.s
+.PHONY : leetcode/1376.s
+
+# target to generate assembly for a file
+leetcode/1376.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1376.dir/build.make CMakeFiles/1376.dir/leetcode/1376.cpp.s
+.PHONY : leetcode/1376.cpp.s
+
+leetcode/1382.o: leetcode/1382.cpp.o
+.PHONY : leetcode/1382.o
+
+# target to build an object file
+leetcode/1382.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1382.dir/build.make CMakeFiles/1382.dir/leetcode/1382.cpp.o
+.PHONY : leetcode/1382.cpp.o
+
+leetcode/1382.i: leetcode/1382.cpp.i
+.PHONY : leetcode/1382.i
+
+# target to preprocess a source file
+leetcode/1382.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1382.dir/build.make CMakeFiles/1382.dir/leetcode/1382.cpp.i
+.PHONY : leetcode/1382.cpp.i
+
+leetcode/1382.s: leetcode/1382.cpp.s
+.PHONY : leetcode/1382.s
+
+# target to generate assembly for a file
+leetcode/1382.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1382.dir/build.make CMakeFiles/1382.dir/leetcode/1382.cpp.s
+.PHONY : leetcode/1382.cpp.s
 
 leetcode/1400.o: leetcode/1400.cpp.o
 .PHONY : leetcode/1400.o
@@ -1295,6 +2303,30 @@ leetcode/1442.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1442.dir/build.make CMakeFiles/1442.dir/leetcode/1442.cpp.s
 .PHONY : leetcode/1442.cpp.s
 
+leetcode/1452.o: leetcode/1452.cpp.o
+.PHONY : leetcode/1452.o
+
+# target to build an object file
+leetcode/1452.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1452.dir/build.make CMakeFiles/1452.dir/leetcode/1452.cpp.o
+.PHONY : leetcode/1452.cpp.o
+
+leetcode/1452.i: leetcode/1452.cpp.i
+.PHONY : leetcode/1452.i
+
+# target to preprocess a source file
+leetcode/1452.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1452.dir/build.make CMakeFiles/1452.dir/leetcode/1452.cpp.i
+.PHONY : leetcode/1452.cpp.i
+
+leetcode/1452.s: leetcode/1452.cpp.s
+.PHONY : leetcode/1452.s
+
+# target to generate assembly for a file
+leetcode/1452.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1452.dir/build.make CMakeFiles/1452.dir/leetcode/1452.cpp.s
+.PHONY : leetcode/1452.cpp.s
+
 leetcode/1457.o: leetcode/1457.cpp.o
 .PHONY : leetcode/1457.o
 
@@ -1367,6 +2399,54 @@ leetcode/1557.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1557.dir/build.make CMakeFiles/1557.dir/leetcode/1557.cpp.s
 .PHONY : leetcode/1557.cpp.s
 
+leetcode/1578.o: leetcode/1578.cpp.o
+.PHONY : leetcode/1578.o
+
+# target to build an object file
+leetcode/1578.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1578.dir/build.make CMakeFiles/1578.dir/leetcode/1578.cpp.o
+.PHONY : leetcode/1578.cpp.o
+
+leetcode/1578.i: leetcode/1578.cpp.i
+.PHONY : leetcode/1578.i
+
+# target to preprocess a source file
+leetcode/1578.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1578.dir/build.make CMakeFiles/1578.dir/leetcode/1578.cpp.i
+.PHONY : leetcode/1578.cpp.i
+
+leetcode/1578.s: leetcode/1578.cpp.s
+.PHONY : leetcode/1578.s
+
+# target to generate assembly for a file
+leetcode/1578.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1578.dir/build.make CMakeFiles/1578.dir/leetcode/1578.cpp.s
+.PHONY : leetcode/1578.cpp.s
+
+leetcode/1599.o: leetcode/1599.cpp.o
+.PHONY : leetcode/1599.o
+
+# target to build an object file
+leetcode/1599.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1599.dir/build.make CMakeFiles/1599.dir/leetcode/1599.cpp.o
+.PHONY : leetcode/1599.cpp.o
+
+leetcode/1599.i: leetcode/1599.cpp.i
+.PHONY : leetcode/1599.i
+
+# target to preprocess a source file
+leetcode/1599.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1599.dir/build.make CMakeFiles/1599.dir/leetcode/1599.cpp.i
+.PHONY : leetcode/1599.cpp.i
+
+leetcode/1599.s: leetcode/1599.cpp.s
+.PHONY : leetcode/1599.s
+
+# target to generate assembly for a file
+leetcode/1599.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1599.dir/build.make CMakeFiles/1599.dir/leetcode/1599.cpp.s
+.PHONY : leetcode/1599.cpp.s
+
 leetcode/1615.o: leetcode/1615.cpp.o
 .PHONY : leetcode/1615.o
 
@@ -1390,6 +2470,30 @@ leetcode/1615.s: leetcode/1615.cpp.s
 leetcode/1615.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1615.dir/build.make CMakeFiles/1615.dir/leetcode/1615.cpp.s
 .PHONY : leetcode/1615.cpp.s
+
+leetcode/1631.o: leetcode/1631.cpp.o
+.PHONY : leetcode/1631.o
+
+# target to build an object file
+leetcode/1631.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1631.dir/build.make CMakeFiles/1631.dir/leetcode/1631.cpp.o
+.PHONY : leetcode/1631.cpp.o
+
+leetcode/1631.i: leetcode/1631.cpp.i
+.PHONY : leetcode/1631.i
+
+# target to preprocess a source file
+leetcode/1631.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1631.dir/build.make CMakeFiles/1631.dir/leetcode/1631.cpp.i
+.PHONY : leetcode/1631.cpp.i
+
+leetcode/1631.s: leetcode/1631.cpp.s
+.PHONY : leetcode/1631.s
+
+# target to generate assembly for a file
+leetcode/1631.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1631.dir/build.make CMakeFiles/1631.dir/leetcode/1631.cpp.s
+.PHONY : leetcode/1631.cpp.s
 
 leetcode/1634.o: leetcode/1634.cpp.o
 .PHONY : leetcode/1634.o
@@ -1558,6 +2662,30 @@ leetcode/1726.s: leetcode/1726.cpp.s
 leetcode/1726.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1726.dir/build.make CMakeFiles/1726.dir/leetcode/1726.cpp.s
 .PHONY : leetcode/1726.cpp.s
+
+leetcode/1749.o: leetcode/1749.cpp.o
+.PHONY : leetcode/1749.o
+
+# target to build an object file
+leetcode/1749.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1749.dir/build.make CMakeFiles/1749.dir/leetcode/1749.cpp.o
+.PHONY : leetcode/1749.cpp.o
+
+leetcode/1749.i: leetcode/1749.cpp.i
+.PHONY : leetcode/1749.i
+
+# target to preprocess a source file
+leetcode/1749.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1749.dir/build.make CMakeFiles/1749.dir/leetcode/1749.cpp.i
+.PHONY : leetcode/1749.cpp.i
+
+leetcode/1749.s: leetcode/1749.cpp.s
+.PHONY : leetcode/1749.s
+
+# target to generate assembly for a file
+leetcode/1749.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/1749.dir/build.make CMakeFiles/1749.dir/leetcode/1749.cpp.s
+.PHONY : leetcode/1749.cpp.s
 
 leetcode/1763.o: leetcode/1763.cpp.o
 .PHONY : leetcode/1763.o
@@ -1799,6 +2927,150 @@ leetcode/1992.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/1992.dir/build.make CMakeFiles/1992.dir/leetcode/1992.cpp.s
 .PHONY : leetcode/1992.cpp.s
 
+leetcode/2007.o: leetcode/2007.cpp.o
+.PHONY : leetcode/2007.o
+
+# target to build an object file
+leetcode/2007.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2007.dir/build.make CMakeFiles/2007.dir/leetcode/2007.cpp.o
+.PHONY : leetcode/2007.cpp.o
+
+leetcode/2007.i: leetcode/2007.cpp.i
+.PHONY : leetcode/2007.i
+
+# target to preprocess a source file
+leetcode/2007.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2007.dir/build.make CMakeFiles/2007.dir/leetcode/2007.cpp.i
+.PHONY : leetcode/2007.cpp.i
+
+leetcode/2007.s: leetcode/2007.cpp.s
+.PHONY : leetcode/2007.s
+
+# target to generate assembly for a file
+leetcode/2007.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2007.dir/build.make CMakeFiles/2007.dir/leetcode/2007.cpp.s
+.PHONY : leetcode/2007.cpp.s
+
+leetcode/2008.o: leetcode/2008.cpp.o
+.PHONY : leetcode/2008.o
+
+# target to build an object file
+leetcode/2008.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2008.dir/build.make CMakeFiles/2008.dir/leetcode/2008.cpp.o
+.PHONY : leetcode/2008.cpp.o
+
+leetcode/2008.i: leetcode/2008.cpp.i
+.PHONY : leetcode/2008.i
+
+# target to preprocess a source file
+leetcode/2008.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2008.dir/build.make CMakeFiles/2008.dir/leetcode/2008.cpp.i
+.PHONY : leetcode/2008.cpp.i
+
+leetcode/2008.s: leetcode/2008.cpp.s
+.PHONY : leetcode/2008.s
+
+# target to generate assembly for a file
+leetcode/2008.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2008.dir/build.make CMakeFiles/2008.dir/leetcode/2008.cpp.s
+.PHONY : leetcode/2008.cpp.s
+
+leetcode/2044.o: leetcode/2044.cpp.o
+.PHONY : leetcode/2044.o
+
+# target to build an object file
+leetcode/2044.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2044.dir/build.make CMakeFiles/2044.dir/leetcode/2044.cpp.o
+.PHONY : leetcode/2044.cpp.o
+
+leetcode/2044.i: leetcode/2044.cpp.i
+.PHONY : leetcode/2044.i
+
+# target to preprocess a source file
+leetcode/2044.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2044.dir/build.make CMakeFiles/2044.dir/leetcode/2044.cpp.i
+.PHONY : leetcode/2044.cpp.i
+
+leetcode/2044.s: leetcode/2044.cpp.s
+.PHONY : leetcode/2044.s
+
+# target to generate assembly for a file
+leetcode/2044.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2044.dir/build.make CMakeFiles/2044.dir/leetcode/2044.cpp.s
+.PHONY : leetcode/2044.cpp.s
+
+leetcode/2048.o: leetcode/2048.cpp.o
+.PHONY : leetcode/2048.o
+
+# target to build an object file
+leetcode/2048.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2048.dir/build.make CMakeFiles/2048.dir/leetcode/2048.cpp.o
+.PHONY : leetcode/2048.cpp.o
+
+leetcode/2048.i: leetcode/2048.cpp.i
+.PHONY : leetcode/2048.i
+
+# target to preprocess a source file
+leetcode/2048.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2048.dir/build.make CMakeFiles/2048.dir/leetcode/2048.cpp.i
+.PHONY : leetcode/2048.cpp.i
+
+leetcode/2048.s: leetcode/2048.cpp.s
+.PHONY : leetcode/2048.s
+
+# target to generate assembly for a file
+leetcode/2048.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2048.dir/build.make CMakeFiles/2048.dir/leetcode/2048.cpp.s
+.PHONY : leetcode/2048.cpp.s
+
+leetcode/2131.o: leetcode/2131.cpp.o
+.PHONY : leetcode/2131.o
+
+# target to build an object file
+leetcode/2131.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2131.dir/build.make CMakeFiles/2131.dir/leetcode/2131.cpp.o
+.PHONY : leetcode/2131.cpp.o
+
+leetcode/2131.i: leetcode/2131.cpp.i
+.PHONY : leetcode/2131.i
+
+# target to preprocess a source file
+leetcode/2131.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2131.dir/build.make CMakeFiles/2131.dir/leetcode/2131.cpp.i
+.PHONY : leetcode/2131.cpp.i
+
+leetcode/2131.s: leetcode/2131.cpp.s
+.PHONY : leetcode/2131.s
+
+# target to generate assembly for a file
+leetcode/2131.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2131.dir/build.make CMakeFiles/2131.dir/leetcode/2131.cpp.s
+.PHONY : leetcode/2131.cpp.s
+
+leetcode/2132.o: leetcode/2132.cpp.o
+.PHONY : leetcode/2132.o
+
+# target to build an object file
+leetcode/2132.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2132.dir/build.make CMakeFiles/2132.dir/leetcode/2132.cpp.o
+.PHONY : leetcode/2132.cpp.o
+
+leetcode/2132.i: leetcode/2132.cpp.i
+.PHONY : leetcode/2132.i
+
+# target to preprocess a source file
+leetcode/2132.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2132.dir/build.make CMakeFiles/2132.dir/leetcode/2132.cpp.i
+.PHONY : leetcode/2132.cpp.i
+
+leetcode/2132.s: leetcode/2132.cpp.s
+.PHONY : leetcode/2132.s
+
+# target to generate assembly for a file
+leetcode/2132.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2132.dir/build.make CMakeFiles/2132.dir/leetcode/2132.cpp.s
+.PHONY : leetcode/2132.cpp.s
+
 leetcode/2178.o: leetcode/2178.cpp.o
 .PHONY : leetcode/2178.o
 
@@ -1846,6 +3118,54 @@ leetcode/2201.s: leetcode/2201.cpp.s
 leetcode/2201.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/2201.dir/build.make CMakeFiles/2201.dir/leetcode/2201.cpp.s
 .PHONY : leetcode/2201.cpp.s
+
+leetcode/2207.o: leetcode/2207.cpp.o
+.PHONY : leetcode/2207.o
+
+# target to build an object file
+leetcode/2207.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2207.dir/build.make CMakeFiles/2207.dir/leetcode/2207.cpp.o
+.PHONY : leetcode/2207.cpp.o
+
+leetcode/2207.i: leetcode/2207.cpp.i
+.PHONY : leetcode/2207.i
+
+# target to preprocess a source file
+leetcode/2207.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2207.dir/build.make CMakeFiles/2207.dir/leetcode/2207.cpp.i
+.PHONY : leetcode/2207.cpp.i
+
+leetcode/2207.s: leetcode/2207.cpp.s
+.PHONY : leetcode/2207.s
+
+# target to generate assembly for a file
+leetcode/2207.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2207.dir/build.make CMakeFiles/2207.dir/leetcode/2207.cpp.s
+.PHONY : leetcode/2207.cpp.s
+
+leetcode/2208.o: leetcode/2208.cpp.o
+.PHONY : leetcode/2208.o
+
+# target to build an object file
+leetcode/2208.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2208.dir/build.make CMakeFiles/2208.dir/leetcode/2208.cpp.o
+.PHONY : leetcode/2208.cpp.o
+
+leetcode/2208.i: leetcode/2208.cpp.i
+.PHONY : leetcode/2208.i
+
+# target to preprocess a source file
+leetcode/2208.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2208.dir/build.make CMakeFiles/2208.dir/leetcode/2208.cpp.i
+.PHONY : leetcode/2208.cpp.i
+
+leetcode/2208.s: leetcode/2208.cpp.s
+.PHONY : leetcode/2208.s
+
+# target to generate assembly for a file
+leetcode/2208.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2208.dir/build.make CMakeFiles/2208.dir/leetcode/2208.cpp.s
+.PHONY : leetcode/2208.cpp.s
 
 leetcode/2216.o: leetcode/2216.cpp.o
 .PHONY : leetcode/2216.o
@@ -1919,6 +3239,30 @@ leetcode/2300.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/2300.dir/build.make CMakeFiles/2300.dir/leetcode/2300.cpp.s
 .PHONY : leetcode/2300.cpp.s
 
+leetcode/2310.o: leetcode/2310.cpp.o
+.PHONY : leetcode/2310.o
+
+# target to build an object file
+leetcode/2310.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2310.dir/build.make CMakeFiles/2310.dir/leetcode/2310.cpp.o
+.PHONY : leetcode/2310.cpp.o
+
+leetcode/2310.i: leetcode/2310.cpp.i
+.PHONY : leetcode/2310.i
+
+# target to preprocess a source file
+leetcode/2310.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2310.dir/build.make CMakeFiles/2310.dir/leetcode/2310.cpp.i
+.PHONY : leetcode/2310.cpp.i
+
+leetcode/2310.s: leetcode/2310.cpp.s
+.PHONY : leetcode/2310.s
+
+# target to generate assembly for a file
+leetcode/2310.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2310.dir/build.make CMakeFiles/2310.dir/leetcode/2310.cpp.s
+.PHONY : leetcode/2310.cpp.s
+
 leetcode/2336.o: leetcode/2336.cpp.o
 .PHONY : leetcode/2336.o
 
@@ -1942,6 +3286,54 @@ leetcode/2336.s: leetcode/2336.cpp.s
 leetcode/2336.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/2336.dir/build.make CMakeFiles/2336.dir/leetcode/2336.cpp.s
 .PHONY : leetcode/2336.cpp.s
+
+leetcode/2349.o: leetcode/2349.cpp.o
+.PHONY : leetcode/2349.o
+
+# target to build an object file
+leetcode/2349.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2349.dir/build.make CMakeFiles/2349.dir/leetcode/2349.cpp.o
+.PHONY : leetcode/2349.cpp.o
+
+leetcode/2349.i: leetcode/2349.cpp.i
+.PHONY : leetcode/2349.i
+
+# target to preprocess a source file
+leetcode/2349.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2349.dir/build.make CMakeFiles/2349.dir/leetcode/2349.cpp.i
+.PHONY : leetcode/2349.cpp.i
+
+leetcode/2349.s: leetcode/2349.cpp.s
+.PHONY : leetcode/2349.s
+
+# target to generate assembly for a file
+leetcode/2349.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2349.dir/build.make CMakeFiles/2349.dir/leetcode/2349.cpp.s
+.PHONY : leetcode/2349.cpp.s
+
+leetcode/2415.o: leetcode/2415.cpp.o
+.PHONY : leetcode/2415.o
+
+# target to build an object file
+leetcode/2415.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2415.dir/build.make CMakeFiles/2415.dir/leetcode/2415.cpp.o
+.PHONY : leetcode/2415.cpp.o
+
+leetcode/2415.i: leetcode/2415.cpp.i
+.PHONY : leetcode/2415.i
+
+# target to preprocess a source file
+leetcode/2415.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2415.dir/build.make CMakeFiles/2415.dir/leetcode/2415.cpp.i
+.PHONY : leetcode/2415.cpp.i
+
+leetcode/2415.s: leetcode/2415.cpp.s
+.PHONY : leetcode/2415.s
+
+# target to generate assembly for a file
+leetcode/2415.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2415.dir/build.make CMakeFiles/2415.dir/leetcode/2415.cpp.s
+.PHONY : leetcode/2415.cpp.s
 
 leetcode/2429.o: leetcode/2429.cpp.o
 .PHONY : leetcode/2429.o
@@ -1967,6 +3359,102 @@ leetcode/2429.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/2429.dir/build.make CMakeFiles/2429.dir/leetcode/2429.cpp.s
 .PHONY : leetcode/2429.cpp.s
 
+leetcode/2454.o: leetcode/2454.cpp.o
+.PHONY : leetcode/2454.o
+
+# target to build an object file
+leetcode/2454.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2454.dir/build.make CMakeFiles/2454.dir/leetcode/2454.cpp.o
+.PHONY : leetcode/2454.cpp.o
+
+leetcode/2454.i: leetcode/2454.cpp.i
+.PHONY : leetcode/2454.i
+
+# target to preprocess a source file
+leetcode/2454.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2454.dir/build.make CMakeFiles/2454.dir/leetcode/2454.cpp.i
+.PHONY : leetcode/2454.cpp.i
+
+leetcode/2454.s: leetcode/2454.cpp.s
+.PHONY : leetcode/2454.s
+
+# target to generate assembly for a file
+leetcode/2454.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2454.dir/build.make CMakeFiles/2454.dir/leetcode/2454.cpp.s
+.PHONY : leetcode/2454.cpp.s
+
+leetcode/2456.o: leetcode/2456.cpp.o
+.PHONY : leetcode/2456.o
+
+# target to build an object file
+leetcode/2456.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2456.dir/build.make CMakeFiles/2456.dir/leetcode/2456.cpp.o
+.PHONY : leetcode/2456.cpp.o
+
+leetcode/2456.i: leetcode/2456.cpp.i
+.PHONY : leetcode/2456.i
+
+# target to preprocess a source file
+leetcode/2456.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2456.dir/build.make CMakeFiles/2456.dir/leetcode/2456.cpp.i
+.PHONY : leetcode/2456.cpp.i
+
+leetcode/2456.s: leetcode/2456.cpp.s
+.PHONY : leetcode/2456.s
+
+# target to generate assembly for a file
+leetcode/2456.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2456.dir/build.make CMakeFiles/2456.dir/leetcode/2456.cpp.s
+.PHONY : leetcode/2456.cpp.s
+
+leetcode/2461.o: leetcode/2461.cpp.o
+.PHONY : leetcode/2461.o
+
+# target to build an object file
+leetcode/2461.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2461.dir/build.make CMakeFiles/2461.dir/leetcode/2461.cpp.o
+.PHONY : leetcode/2461.cpp.o
+
+leetcode/2461.i: leetcode/2461.cpp.i
+.PHONY : leetcode/2461.i
+
+# target to preprocess a source file
+leetcode/2461.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2461.dir/build.make CMakeFiles/2461.dir/leetcode/2461.cpp.i
+.PHONY : leetcode/2461.cpp.i
+
+leetcode/2461.s: leetcode/2461.cpp.s
+.PHONY : leetcode/2461.s
+
+# target to generate assembly for a file
+leetcode/2461.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2461.dir/build.make CMakeFiles/2461.dir/leetcode/2461.cpp.s
+.PHONY : leetcode/2461.cpp.s
+
+leetcode/2470.o: leetcode/2470.cpp.o
+.PHONY : leetcode/2470.o
+
+# target to build an object file
+leetcode/2470.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2470.dir/build.make CMakeFiles/2470.dir/leetcode/2470.cpp.o
+.PHONY : leetcode/2470.cpp.o
+
+leetcode/2470.i: leetcode/2470.cpp.i
+.PHONY : leetcode/2470.i
+
+# target to preprocess a source file
+leetcode/2470.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2470.dir/build.make CMakeFiles/2470.dir/leetcode/2470.cpp.i
+.PHONY : leetcode/2470.cpp.i
+
+leetcode/2470.s: leetcode/2470.cpp.s
+.PHONY : leetcode/2470.s
+
+# target to generate assembly for a file
+leetcode/2470.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2470.dir/build.make CMakeFiles/2470.dir/leetcode/2470.cpp.s
+.PHONY : leetcode/2470.cpp.s
+
 leetcode/2477.o: leetcode/2477.cpp.o
 .PHONY : leetcode/2477.o
 
@@ -1991,6 +3479,54 @@ leetcode/2477.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/2477.dir/build.make CMakeFiles/2477.dir/leetcode/2477.cpp.s
 .PHONY : leetcode/2477.cpp.s
 
+leetcode/2527.o: leetcode/2527.cpp.o
+.PHONY : leetcode/2527.o
+
+# target to build an object file
+leetcode/2527.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2527.dir/build.make CMakeFiles/2527.dir/leetcode/2527.cpp.o
+.PHONY : leetcode/2527.cpp.o
+
+leetcode/2527.i: leetcode/2527.cpp.i
+.PHONY : leetcode/2527.i
+
+# target to preprocess a source file
+leetcode/2527.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2527.dir/build.make CMakeFiles/2527.dir/leetcode/2527.cpp.i
+.PHONY : leetcode/2527.cpp.i
+
+leetcode/2527.s: leetcode/2527.cpp.s
+.PHONY : leetcode/2527.s
+
+# target to generate assembly for a file
+leetcode/2527.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2527.dir/build.make CMakeFiles/2527.dir/leetcode/2527.cpp.s
+.PHONY : leetcode/2527.cpp.s
+
+leetcode/2575.o: leetcode/2575.cpp.o
+.PHONY : leetcode/2575.o
+
+# target to build an object file
+leetcode/2575.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2575.dir/build.make CMakeFiles/2575.dir/leetcode/2575.cpp.o
+.PHONY : leetcode/2575.cpp.o
+
+leetcode/2575.i: leetcode/2575.cpp.i
+.PHONY : leetcode/2575.i
+
+# target to preprocess a source file
+leetcode/2575.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2575.dir/build.make CMakeFiles/2575.dir/leetcode/2575.cpp.i
+.PHONY : leetcode/2575.cpp.i
+
+leetcode/2575.s: leetcode/2575.cpp.s
+.PHONY : leetcode/2575.s
+
+# target to generate assembly for a file
+leetcode/2575.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2575.dir/build.make CMakeFiles/2575.dir/leetcode/2575.cpp.s
+.PHONY : leetcode/2575.cpp.s
+
 leetcode/2591.o: leetcode/2591.cpp.o
 .PHONY : leetcode/2591.o
 
@@ -2014,6 +3550,30 @@ leetcode/2591.s: leetcode/2591.cpp.s
 leetcode/2591.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/2591.dir/build.make CMakeFiles/2591.dir/leetcode/2591.cpp.s
 .PHONY : leetcode/2591.cpp.s
+
+leetcode/2592.o: leetcode/2592.cpp.o
+.PHONY : leetcode/2592.o
+
+# target to build an object file
+leetcode/2592.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2592.dir/build.make CMakeFiles/2592.dir/leetcode/2592.cpp.o
+.PHONY : leetcode/2592.cpp.o
+
+leetcode/2592.i: leetcode/2592.cpp.i
+.PHONY : leetcode/2592.i
+
+# target to preprocess a source file
+leetcode/2592.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2592.dir/build.make CMakeFiles/2592.dir/leetcode/2592.cpp.i
+.PHONY : leetcode/2592.cpp.i
+
+leetcode/2592.s: leetcode/2592.cpp.s
+.PHONY : leetcode/2592.s
+
+# target to generate assembly for a file
+leetcode/2592.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2592.dir/build.make CMakeFiles/2592.dir/leetcode/2592.cpp.s
+.PHONY : leetcode/2592.cpp.s
 
 leetcode/2646.o: leetcode/2646.cpp.o
 .PHONY : leetcode/2646.o
@@ -2111,6 +3671,30 @@ leetcode/2683.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/2683.dir/build.make CMakeFiles/2683.dir/leetcode/2683.cpp.s
 .PHONY : leetcode/2683.cpp.s
 
+leetcode/2697.o: leetcode/2697.cpp.o
+.PHONY : leetcode/2697.o
+
+# target to build an object file
+leetcode/2697.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2697.dir/build.make CMakeFiles/2697.dir/leetcode/2697.cpp.o
+.PHONY : leetcode/2697.cpp.o
+
+leetcode/2697.i: leetcode/2697.cpp.i
+.PHONY : leetcode/2697.i
+
+# target to preprocess a source file
+leetcode/2697.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2697.dir/build.make CMakeFiles/2697.dir/leetcode/2697.cpp.i
+.PHONY : leetcode/2697.cpp.i
+
+leetcode/2697.s: leetcode/2697.cpp.s
+.PHONY : leetcode/2697.s
+
+# target to generate assembly for a file
+leetcode/2697.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2697.dir/build.make CMakeFiles/2697.dir/leetcode/2697.cpp.s
+.PHONY : leetcode/2697.cpp.s
+
 leetcode/2770.o: leetcode/2770.cpp.o
 .PHONY : leetcode/2770.o
 
@@ -2134,6 +3718,30 @@ leetcode/2770.s: leetcode/2770.cpp.s
 leetcode/2770.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/2770.dir/build.make CMakeFiles/2770.dir/leetcode/2770.cpp.s
 .PHONY : leetcode/2770.cpp.s
+
+leetcode/2780.o: leetcode/2780.cpp.o
+.PHONY : leetcode/2780.o
+
+# target to build an object file
+leetcode/2780.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2780.dir/build.make CMakeFiles/2780.dir/leetcode/2780.cpp.o
+.PHONY : leetcode/2780.cpp.o
+
+leetcode/2780.i: leetcode/2780.cpp.i
+.PHONY : leetcode/2780.i
+
+# target to preprocess a source file
+leetcode/2780.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2780.dir/build.make CMakeFiles/2780.dir/leetcode/2780.cpp.i
+.PHONY : leetcode/2780.cpp.i
+
+leetcode/2780.s: leetcode/2780.cpp.s
+.PHONY : leetcode/2780.s
+
+# target to generate assembly for a file
+leetcode/2780.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2780.dir/build.make CMakeFiles/2780.dir/leetcode/2780.cpp.s
+.PHONY : leetcode/2780.cpp.s
 
 leetcode/2824.o: leetcode/2824.cpp.o
 .PHONY : leetcode/2824.o
@@ -2230,6 +3838,54 @@ leetcode/828.s: leetcode/828.cpp.s
 leetcode/828.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/828.dir/build.make CMakeFiles/828.dir/leetcode/828.cpp.s
 .PHONY : leetcode/828.cpp.s
+
+leetcode/846.o: leetcode/846.cpp.o
+.PHONY : leetcode/846.o
+
+# target to build an object file
+leetcode/846.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/846.dir/build.make CMakeFiles/846.dir/leetcode/846.cpp.o
+.PHONY : leetcode/846.cpp.o
+
+leetcode/846.i: leetcode/846.cpp.i
+.PHONY : leetcode/846.i
+
+# target to preprocess a source file
+leetcode/846.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/846.dir/build.make CMakeFiles/846.dir/leetcode/846.cpp.i
+.PHONY : leetcode/846.cpp.i
+
+leetcode/846.s: leetcode/846.cpp.s
+.PHONY : leetcode/846.s
+
+# target to generate assembly for a file
+leetcode/846.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/846.dir/build.make CMakeFiles/846.dir/leetcode/846.cpp.s
+.PHONY : leetcode/846.cpp.s
+
+leetcode/856.o: leetcode/856.cpp.o
+.PHONY : leetcode/856.o
+
+# target to build an object file
+leetcode/856.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/856.dir/build.make CMakeFiles/856.dir/leetcode/856.cpp.o
+.PHONY : leetcode/856.cpp.o
+
+leetcode/856.i: leetcode/856.cpp.i
+.PHONY : leetcode/856.i
+
+# target to preprocess a source file
+leetcode/856.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/856.dir/build.make CMakeFiles/856.dir/leetcode/856.cpp.i
+.PHONY : leetcode/856.cpp.i
+
+leetcode/856.s: leetcode/856.cpp.s
+.PHONY : leetcode/856.s
+
+# target to generate assembly for a file
+leetcode/856.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/856.dir/build.make CMakeFiles/856.dir/leetcode/856.cpp.s
+.PHONY : leetcode/856.cpp.s
 
 leetcode/865.o: leetcode/865.cpp.o
 .PHONY : leetcode/865.o
@@ -2399,6 +4055,102 @@ leetcode/917.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/917.dir/build.make CMakeFiles/917.dir/leetcode/917.cpp.s
 .PHONY : leetcode/917.cpp.s
 
+leetcode/931.o: leetcode/931.cpp.o
+.PHONY : leetcode/931.o
+
+# target to build an object file
+leetcode/931.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/931.dir/build.make CMakeFiles/931.dir/leetcode/931.cpp.o
+.PHONY : leetcode/931.cpp.o
+
+leetcode/931.i: leetcode/931.cpp.i
+.PHONY : leetcode/931.i
+
+# target to preprocess a source file
+leetcode/931.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/931.dir/build.make CMakeFiles/931.dir/leetcode/931.cpp.i
+.PHONY : leetcode/931.cpp.i
+
+leetcode/931.s: leetcode/931.cpp.s
+.PHONY : leetcode/931.s
+
+# target to generate assembly for a file
+leetcode/931.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/931.dir/build.make CMakeFiles/931.dir/leetcode/931.cpp.s
+.PHONY : leetcode/931.cpp.s
+
+leetcode/954.o: leetcode/954.cpp.o
+.PHONY : leetcode/954.o
+
+# target to build an object file
+leetcode/954.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/954.dir/build.make CMakeFiles/954.dir/leetcode/954.cpp.o
+.PHONY : leetcode/954.cpp.o
+
+leetcode/954.i: leetcode/954.cpp.i
+.PHONY : leetcode/954.i
+
+# target to preprocess a source file
+leetcode/954.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/954.dir/build.make CMakeFiles/954.dir/leetcode/954.cpp.i
+.PHONY : leetcode/954.cpp.i
+
+leetcode/954.s: leetcode/954.cpp.s
+.PHONY : leetcode/954.s
+
+# target to generate assembly for a file
+leetcode/954.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/954.dir/build.make CMakeFiles/954.dir/leetcode/954.cpp.s
+.PHONY : leetcode/954.cpp.s
+
+leetcode/981.o: leetcode/981.cpp.o
+.PHONY : leetcode/981.o
+
+# target to build an object file
+leetcode/981.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/981.dir/build.make CMakeFiles/981.dir/leetcode/981.cpp.o
+.PHONY : leetcode/981.cpp.o
+
+leetcode/981.i: leetcode/981.cpp.i
+.PHONY : leetcode/981.i
+
+# target to preprocess a source file
+leetcode/981.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/981.dir/build.make CMakeFiles/981.dir/leetcode/981.cpp.i
+.PHONY : leetcode/981.cpp.i
+
+leetcode/981.s: leetcode/981.cpp.s
+.PHONY : leetcode/981.s
+
+# target to generate assembly for a file
+leetcode/981.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/981.dir/build.make CMakeFiles/981.dir/leetcode/981.cpp.s
+.PHONY : leetcode/981.cpp.s
+
+leetcode/986.o: leetcode/986.cpp.o
+.PHONY : leetcode/986.o
+
+# target to build an object file
+leetcode/986.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/986.dir/build.make CMakeFiles/986.dir/leetcode/986.cpp.o
+.PHONY : leetcode/986.cpp.o
+
+leetcode/986.i: leetcode/986.cpp.i
+.PHONY : leetcode/986.i
+
+# target to preprocess a source file
+leetcode/986.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/986.dir/build.make CMakeFiles/986.dir/leetcode/986.cpp.i
+.PHONY : leetcode/986.cpp.i
+
+leetcode/986.s: leetcode/986.cpp.s
+.PHONY : leetcode/986.s
+
+# target to generate assembly for a file
+leetcode/986.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/986.dir/build.make CMakeFiles/986.dir/leetcode/986.cpp.s
+.PHONY : leetcode/986.cpp.s
+
 leetcode/test11.o: leetcode/test11.cpp.o
 .PHONY : leetcode/test11.o
 
@@ -2422,6 +4174,30 @@ leetcode/test11.s: leetcode/test11.cpp.s
 leetcode/test11.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/test11.dir/build.make CMakeFiles/test11.dir/leetcode/test11.cpp.s
 .PHONY : leetcode/test11.cpp.s
+
+leetcode/testttttt.o: leetcode/testttttt.cpp.o
+.PHONY : leetcode/testttttt.o
+
+# target to build an object file
+leetcode/testttttt.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/testttttt.dir/build.make CMakeFiles/testttttt.dir/leetcode/testttttt.cpp.o
+.PHONY : leetcode/testttttt.cpp.o
+
+leetcode/testttttt.i: leetcode/testttttt.cpp.i
+.PHONY : leetcode/testttttt.i
+
+# target to preprocess a source file
+leetcode/testttttt.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/testttttt.dir/build.make CMakeFiles/testttttt.dir/leetcode/testttttt.cpp.i
+.PHONY : leetcode/testttttt.cpp.i
+
+leetcode/testttttt.s: leetcode/testttttt.cpp.s
+.PHONY : leetcode/testttttt.s
+
+# target to generate assembly for a file
+leetcode/testttttt.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/testttttt.dir/build.make CMakeFiles/testttttt.dir/leetcode/testttttt.cpp.s
+.PHONY : leetcode/testttttt.cpp.s
 
 main.o: main.cpp.o
 .PHONY : main.o
@@ -2455,20 +4231,40 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
+	@echo "... 100136"
+	@echo "... 100137"
+	@echo "... 100143"
 	@echo "... 100144"
 	@echo "... 100145"
 	@echo "... 100153"
+	@echo "... 100155"
+	@echo "... 1007"
+	@echo "... 1008"
+	@echo "... 1019"
 	@echo "... 1023"
 	@echo "... 1094"
+	@echo "... 1104"
+	@echo "... 1109"
 	@echo "... 1110"
+	@echo "... 1144"
+	@echo "... 1233"
+	@echo "... 1268"
+	@echo "... 1283"
+	@echo "... 1329"
 	@echo "... 1362"
+	@echo "... 1376"
+	@echo "... 1382"
 	@echo "... 1400"
 	@echo "... 1423"
 	@echo "... 1442"
+	@echo "... 1452"
 	@echo "... 1457"
 	@echo "... 1525"
 	@echo "... 1557"
+	@echo "... 1578"
+	@echo "... 1599"
 	@echo "... 1615"
+	@echo "... 1631"
 	@echo "... 1634"
 	@echo "... 1640"
 	@echo "... 1657"
@@ -2476,6 +4272,7 @@ help:
 	@echo "... 1695"
 	@echo "... 1697"
 	@echo "... 1726"
+	@echo "... 1749"
 	@echo "... 1763"
 	@echo "... 1802"
 	@echo "... 1822"
@@ -2486,26 +4283,48 @@ help:
 	@echo "... 1930"
 	@echo "... 1991"
 	@echo "... 1992"
+	@echo "... 2007"
+	@echo "... 2008"
+	@echo "... 2044"
+	@echo "... 2048"
+	@echo "... 2131"
+	@echo "... 2132"
 	@echo "... 2178"
 	@echo "... 2201"
+	@echo "... 2207"
+	@echo "... 2208"
 	@echo "... 2216"
 	@echo "... 2258"
 	@echo "... 2300"
+	@echo "... 2310"
 	@echo "... 2336"
+	@echo "... 2349"
+	@echo "... 2415"
 	@echo "... 2429"
+	@echo "... 2454"
+	@echo "... 2456"
+	@echo "... 2461"
+	@echo "... 2470"
 	@echo "... 2477"
+	@echo "... 2527"
+	@echo "... 2575"
 	@echo "... 2591"
+	@echo "... 2592"
 	@echo "... 2646"
 	@echo "... 2661"
 	@echo "... 2671"
 	@echo "... 2683"
+	@echo "... 2697"
 	@echo "... 2770"
+	@echo "... 2780"
 	@echo "... 2824"
 	@echo "... 34"
 	@echo "... 5366"
 	@echo "... 5367"
 	@echo "... 765"
 	@echo "... 828"
+	@echo "... 846"
+	@echo "... 856"
 	@echo "... 865"
 	@echo "... 881"
 	@echo "... 900"
@@ -2513,11 +4332,16 @@ help:
 	@echo "... 907"
 	@echo "... 915"
 	@echo "... 917"
+	@echo "... 931"
+	@echo "... 954"
+	@echo "... 981"
+	@echo "... 986"
 	@echo "... CLion"
 	@echo "... UnionFind"
 	@echo "... bsearch"
 	@echo "... gcd"
 	@echo "... test11"
+	@echo "... testttttt"
 	@echo "... acwing/5366.o"
 	@echo "... acwing/5366.i"
 	@echo "... acwing/5366.s"
@@ -2533,6 +4357,15 @@ help:
 	@echo "... acwing/gcd.o"
 	@echo "... acwing/gcd.i"
 	@echo "... acwing/gcd.s"
+	@echo "... leetcode/100136.o"
+	@echo "... leetcode/100136.i"
+	@echo "... leetcode/100136.s"
+	@echo "... leetcode/100137.o"
+	@echo "... leetcode/100137.i"
+	@echo "... leetcode/100137.s"
+	@echo "... leetcode/100143.o"
+	@echo "... leetcode/100143.i"
+	@echo "... leetcode/100143.s"
 	@echo "... leetcode/100144.o"
 	@echo "... leetcode/100144.i"
 	@echo "... leetcode/100144.s"
@@ -2542,18 +4375,57 @@ help:
 	@echo "... leetcode/100153.o"
 	@echo "... leetcode/100153.i"
 	@echo "... leetcode/100153.s"
+	@echo "... leetcode/100155.o"
+	@echo "... leetcode/100155.i"
+	@echo "... leetcode/100155.s"
+	@echo "... leetcode/1007.o"
+	@echo "... leetcode/1007.i"
+	@echo "... leetcode/1007.s"
+	@echo "... leetcode/1008.o"
+	@echo "... leetcode/1008.i"
+	@echo "... leetcode/1008.s"
+	@echo "... leetcode/1019.o"
+	@echo "... leetcode/1019.i"
+	@echo "... leetcode/1019.s"
 	@echo "... leetcode/1023.o"
 	@echo "... leetcode/1023.i"
 	@echo "... leetcode/1023.s"
 	@echo "... leetcode/1094.o"
 	@echo "... leetcode/1094.i"
 	@echo "... leetcode/1094.s"
+	@echo "... leetcode/1104.o"
+	@echo "... leetcode/1104.i"
+	@echo "... leetcode/1104.s"
+	@echo "... leetcode/1109.o"
+	@echo "... leetcode/1109.i"
+	@echo "... leetcode/1109.s"
 	@echo "... leetcode/1110.o"
 	@echo "... leetcode/1110.i"
 	@echo "... leetcode/1110.s"
+	@echo "... leetcode/1144.o"
+	@echo "... leetcode/1144.i"
+	@echo "... leetcode/1144.s"
+	@echo "... leetcode/1233.o"
+	@echo "... leetcode/1233.i"
+	@echo "... leetcode/1233.s"
+	@echo "... leetcode/1268.o"
+	@echo "... leetcode/1268.i"
+	@echo "... leetcode/1268.s"
+	@echo "... leetcode/1283.o"
+	@echo "... leetcode/1283.i"
+	@echo "... leetcode/1283.s"
+	@echo "... leetcode/1329.o"
+	@echo "... leetcode/1329.i"
+	@echo "... leetcode/1329.s"
 	@echo "... leetcode/1362.o"
 	@echo "... leetcode/1362.i"
 	@echo "... leetcode/1362.s"
+	@echo "... leetcode/1376.o"
+	@echo "... leetcode/1376.i"
+	@echo "... leetcode/1376.s"
+	@echo "... leetcode/1382.o"
+	@echo "... leetcode/1382.i"
+	@echo "... leetcode/1382.s"
 	@echo "... leetcode/1400.o"
 	@echo "... leetcode/1400.i"
 	@echo "... leetcode/1400.s"
@@ -2563,6 +4435,9 @@ help:
 	@echo "... leetcode/1442.o"
 	@echo "... leetcode/1442.i"
 	@echo "... leetcode/1442.s"
+	@echo "... leetcode/1452.o"
+	@echo "... leetcode/1452.i"
+	@echo "... leetcode/1452.s"
 	@echo "... leetcode/1457.o"
 	@echo "... leetcode/1457.i"
 	@echo "... leetcode/1457.s"
@@ -2572,9 +4447,18 @@ help:
 	@echo "... leetcode/1557.o"
 	@echo "... leetcode/1557.i"
 	@echo "... leetcode/1557.s"
+	@echo "... leetcode/1578.o"
+	@echo "... leetcode/1578.i"
+	@echo "... leetcode/1578.s"
+	@echo "... leetcode/1599.o"
+	@echo "... leetcode/1599.i"
+	@echo "... leetcode/1599.s"
 	@echo "... leetcode/1615.o"
 	@echo "... leetcode/1615.i"
 	@echo "... leetcode/1615.s"
+	@echo "... leetcode/1631.o"
+	@echo "... leetcode/1631.i"
+	@echo "... leetcode/1631.s"
 	@echo "... leetcode/1634.o"
 	@echo "... leetcode/1634.i"
 	@echo "... leetcode/1634.s"
@@ -2596,6 +4480,9 @@ help:
 	@echo "... leetcode/1726.o"
 	@echo "... leetcode/1726.i"
 	@echo "... leetcode/1726.s"
+	@echo "... leetcode/1749.o"
+	@echo "... leetcode/1749.i"
+	@echo "... leetcode/1749.s"
 	@echo "... leetcode/1763.o"
 	@echo "... leetcode/1763.i"
 	@echo "... leetcode/1763.s"
@@ -2626,12 +4513,36 @@ help:
 	@echo "... leetcode/1992.o"
 	@echo "... leetcode/1992.i"
 	@echo "... leetcode/1992.s"
+	@echo "... leetcode/2007.o"
+	@echo "... leetcode/2007.i"
+	@echo "... leetcode/2007.s"
+	@echo "... leetcode/2008.o"
+	@echo "... leetcode/2008.i"
+	@echo "... leetcode/2008.s"
+	@echo "... leetcode/2044.o"
+	@echo "... leetcode/2044.i"
+	@echo "... leetcode/2044.s"
+	@echo "... leetcode/2048.o"
+	@echo "... leetcode/2048.i"
+	@echo "... leetcode/2048.s"
+	@echo "... leetcode/2131.o"
+	@echo "... leetcode/2131.i"
+	@echo "... leetcode/2131.s"
+	@echo "... leetcode/2132.o"
+	@echo "... leetcode/2132.i"
+	@echo "... leetcode/2132.s"
 	@echo "... leetcode/2178.o"
 	@echo "... leetcode/2178.i"
 	@echo "... leetcode/2178.s"
 	@echo "... leetcode/2201.o"
 	@echo "... leetcode/2201.i"
 	@echo "... leetcode/2201.s"
+	@echo "... leetcode/2207.o"
+	@echo "... leetcode/2207.i"
+	@echo "... leetcode/2207.s"
+	@echo "... leetcode/2208.o"
+	@echo "... leetcode/2208.i"
+	@echo "... leetcode/2208.s"
 	@echo "... leetcode/2216.o"
 	@echo "... leetcode/2216.i"
 	@echo "... leetcode/2216.s"
@@ -2641,18 +4552,48 @@ help:
 	@echo "... leetcode/2300.o"
 	@echo "... leetcode/2300.i"
 	@echo "... leetcode/2300.s"
+	@echo "... leetcode/2310.o"
+	@echo "... leetcode/2310.i"
+	@echo "... leetcode/2310.s"
 	@echo "... leetcode/2336.o"
 	@echo "... leetcode/2336.i"
 	@echo "... leetcode/2336.s"
+	@echo "... leetcode/2349.o"
+	@echo "... leetcode/2349.i"
+	@echo "... leetcode/2349.s"
+	@echo "... leetcode/2415.o"
+	@echo "... leetcode/2415.i"
+	@echo "... leetcode/2415.s"
 	@echo "... leetcode/2429.o"
 	@echo "... leetcode/2429.i"
 	@echo "... leetcode/2429.s"
+	@echo "... leetcode/2454.o"
+	@echo "... leetcode/2454.i"
+	@echo "... leetcode/2454.s"
+	@echo "... leetcode/2456.o"
+	@echo "... leetcode/2456.i"
+	@echo "... leetcode/2456.s"
+	@echo "... leetcode/2461.o"
+	@echo "... leetcode/2461.i"
+	@echo "... leetcode/2461.s"
+	@echo "... leetcode/2470.o"
+	@echo "... leetcode/2470.i"
+	@echo "... leetcode/2470.s"
 	@echo "... leetcode/2477.o"
 	@echo "... leetcode/2477.i"
 	@echo "... leetcode/2477.s"
+	@echo "... leetcode/2527.o"
+	@echo "... leetcode/2527.i"
+	@echo "... leetcode/2527.s"
+	@echo "... leetcode/2575.o"
+	@echo "... leetcode/2575.i"
+	@echo "... leetcode/2575.s"
 	@echo "... leetcode/2591.o"
 	@echo "... leetcode/2591.i"
 	@echo "... leetcode/2591.s"
+	@echo "... leetcode/2592.o"
+	@echo "... leetcode/2592.i"
+	@echo "... leetcode/2592.s"
 	@echo "... leetcode/2646.o"
 	@echo "... leetcode/2646.i"
 	@echo "... leetcode/2646.s"
@@ -2665,9 +4606,15 @@ help:
 	@echo "... leetcode/2683.o"
 	@echo "... leetcode/2683.i"
 	@echo "... leetcode/2683.s"
+	@echo "... leetcode/2697.o"
+	@echo "... leetcode/2697.i"
+	@echo "... leetcode/2697.s"
 	@echo "... leetcode/2770.o"
 	@echo "... leetcode/2770.i"
 	@echo "... leetcode/2770.s"
+	@echo "... leetcode/2780.o"
+	@echo "... leetcode/2780.i"
+	@echo "... leetcode/2780.s"
 	@echo "... leetcode/2824.o"
 	@echo "... leetcode/2824.i"
 	@echo "... leetcode/2824.s"
@@ -2680,6 +4627,12 @@ help:
 	@echo "... leetcode/828.o"
 	@echo "... leetcode/828.i"
 	@echo "... leetcode/828.s"
+	@echo "... leetcode/846.o"
+	@echo "... leetcode/846.i"
+	@echo "... leetcode/846.s"
+	@echo "... leetcode/856.o"
+	@echo "... leetcode/856.i"
+	@echo "... leetcode/856.s"
 	@echo "... leetcode/865.o"
 	@echo "... leetcode/865.i"
 	@echo "... leetcode/865.s"
@@ -2701,9 +4654,24 @@ help:
 	@echo "... leetcode/917.o"
 	@echo "... leetcode/917.i"
 	@echo "... leetcode/917.s"
+	@echo "... leetcode/931.o"
+	@echo "... leetcode/931.i"
+	@echo "... leetcode/931.s"
+	@echo "... leetcode/954.o"
+	@echo "... leetcode/954.i"
+	@echo "... leetcode/954.s"
+	@echo "... leetcode/981.o"
+	@echo "... leetcode/981.i"
+	@echo "... leetcode/981.s"
+	@echo "... leetcode/986.o"
+	@echo "... leetcode/986.i"
+	@echo "... leetcode/986.s"
 	@echo "... leetcode/test11.o"
 	@echo "... leetcode/test11.i"
 	@echo "... leetcode/test11.s"
+	@echo "... leetcode/testttttt.o"
+	@echo "... leetcode/testttttt.i"
+	@echo "... leetcode/testttttt.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
