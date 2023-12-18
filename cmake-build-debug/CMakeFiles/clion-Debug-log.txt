@@ -1,15 +1,4 @@
 /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -D CMAKE_CXX_COMPILER=/opt/homebrew/bin/g++-13 -S /Users/sukilrelia/code/Algorithm -B /Users/sukilrelia/code/Algorithm/cmake-build-debug
-CMake Warning at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/Platform/Darwin-Initialize.cmake:303 (message):
-  Ignoring CMAKE_OSX_SYSROOT value:
-
-   /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk
-
-  because the directory does not exist.
-Call Stack (most recent call first):
-  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake:21 (include)
-  CMakeLists.txt:2 (project)
-
-
 -- Configuring done (0.0s)
 -- Generating done (0.2s)
 -- Build files have been written to: /Users/sukilrelia/code/Algorithm/cmake-build-debug

@@ -1,1 +1,1 @@
-/opt/homebrew/bin/g++-13 -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/1525.dir/leetcode/1525.cpp.o -o 1525 
+/opt/homebrew/bin/g++-13 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/1525.dir/leetcode/1525.cpp.o -o 1525 
