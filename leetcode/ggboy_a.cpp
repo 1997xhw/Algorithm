@@ -28,7 +28,6 @@ int main() {
     for (int i = 0; i < K; ++i) {
         cin >> A[i];
     }
-
     cout << calculate_min_energy(N, K, A) << endl;
 
     return 0;
