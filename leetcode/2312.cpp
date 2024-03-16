@@ -1,0 +1,34 @@
+//
+// Created by 徐浩闻 on 2024/3/15.
+//
+#include "bits/stdc++.h"
+
+using namespace std;
+
+class Solution {
+public:
+    long long sellingWood(int m, int n, vector<vector<int>> &prices) {
+
+        vector<vector<long long>> dp(m + 1, vector<long long>(n + 1));
+        for (auto &item: prices) {
+            dp[item[0]][item[1]] = item[2];
+        }
+
+        for (int i = 1; i <= m; i++) {
+            for (int j = 1; j <= n; j++) {
+                for(int k = 1; k <= j/2; k++) {
+                    dp[i][j] = max(dp[i][j], dp[i][k]+dp[i][j-k]);
+                }
+                for(int k = 1; k <= i/2; k++) {
+                    dp[i][j] = max(dp[i][j], dp[k][j]+dp[i-k][j]);
+                }
+            }
+        }
+        return dp[m][n];
+    }
+};
+
+int main() {
+
+
+}
