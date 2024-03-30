@@ -5,6 +5,9 @@
 
 using namespace std;
 
+
+
+
 class Solution {
 public:
     int minimumTimeToInitialState(string word, int k) {
@@ -25,4 +28,4 @@ int main() {
     Solution ss;
     cout << ss.minimumTimeToInitialState(s, 2);
 
-}`
+}
